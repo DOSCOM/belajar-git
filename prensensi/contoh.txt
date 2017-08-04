@@ -1,6 +1,4 @@
-No urut: 1
 ID: wkwksama
-Github: wkwksama
 Nama: Muhammad Arji' Sharofuddin
 Website: wkwk.web.id
-Pesan: semangat bro!!
+Quote: I am Batman
