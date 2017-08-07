@@ -1,3 +1,10 @@
-# belajar-git
+# Belajar Git dan Github
 
-repository ini untuk belajar menggunakan git
+Silakan absen dengan username github milikmu
+
+- buat file baru di dalam direktori `presensi/` dengan nama file username github milikmu. contoh: `wkwksama.txt`
+- isi file tersebut dengan data dirimu minimal berikut: (contoh bisa dilihat di isi file contoh.txt)
+  - ID:
+  - Nama:
+  - Website:
+  - Quote:
